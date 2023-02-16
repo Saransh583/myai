@@ -14,7 +14,8 @@ body {
 #app {
   width: 100vw;
   height: 100vh;
-  background: #d11706;
+  /* background: #d11706; */
+  background-image: url(./image/hacker-with-laptop-922359280-5c32d4a546e0fb00011bb991.jpg);
 
   display: flex;
   flex-direction: column;
